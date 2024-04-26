@@ -19,6 +19,7 @@ I analyzed **Top 100 Korean Drama** by Data Visualization with Python.
 **Recommendation System**
 <img src="5.png">
 
+
 **Insight:**
 - Most likely, the Korean drama production team will increase production in the Thriller genre.
 - With production increasing over the last few years, production in the following year will increase even more.
