@@ -1,4 +1,4 @@
-# Korean Drama (K-Drama) - Exploratory Data Analysis 📊
+# Korean Drama (K-Drama) - Data Analysis 📊
 
 ## Project Data Analysis with Python
 
